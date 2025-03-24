@@ -1,0 +1,1152 @@
+Survival Obtainable,Name,Id,Stackability,Storage
+YES,Stone,stone,64 Stackable,-
+YES,Granite,granite,64 Stackable,-
+YES,Polished Granite,polished_granite,64 Stackable,-
+YES,Diorite,diorite,64 Stackable,-
+YES,Polished Diorite,polished_diorite,64 Stackable,-
+YES,Andesite,andesite,64 Stackable,-
+YES,Polished Andesite,polished_andesite,64 Stackable,-
+YES,Deepslate,deepslate,64 Stackable,-
+YES,Cobbled Deepslate,cobbled_deepslate,64 Stackable,-
+YES,Polished Deepslate,polished_deepslate,64 Stackable,-
+YES,Calcite,calcite,64 Stackable,-
+YES,Tuff,tuff,64 Stackable,-
+YES,Dripstone Block,dripstone_block,64 Stackable,-
+YES,Grass Block,grass_block,64 Stackable,-
+YES,Dirt,dirt,64 Stackable,-
+YES,Coarse Dirt,coarse_dirt,64 Stackable,-
+YES,Podzol,podzol,64 Stackable,-
+YES,Rooted Dirt,rooted_dirt,64 Stackable,-
+YES,Mud,mud,64 Stackable,-
+YES,Crimson Nylium,crimson_nylium,64 Stackable,-
+YES,Warped Nylium,warped_nylium,64 Stackable,-
+YES,Cobblestone,cobblestone,64 Stackable,-
+YES,Oak Planks,oak_planks,64 Stackable,-
+YES,Spruce Planks,spruce_planks,64 Stackable,-
+YES,Birch Planks,birch_planks,64 Stackable,-
+YES,Jungle Planks,jungle_planks,64 Stackable,-
+YES,Acacia Planks,acacia_planks,64 Stackable,-
+YES,Dark Oak Planks,dark_oak_planks,64 Stackable,-
+YES,Mangrove Planks,mangrove_planks,64 Stackable,-
+YES,Crimson Planks,crimson_planks,64 Stackable,-
+YES,Warped Planks,warped_planks,64 Stackable,-
+YES,Oak Sapling,oak_sapling,64 Stackable,-
+YES,Spruce Sapling,spruce_sapling,64 Stackable,-
+YES,Birch Sapling,birch_sapling,64 Stackable,-
+YES,Jungle Sapling,jungle_sapling,64 Stackable,-
+YES,Acacia Sapling,acacia_sapling,64 Stackable,-
+YES,Dark Oak Sapling,dark_oak_sapling,64 Stackable,-
+YES,Mangrove Propagule,mangrove_propagule,64 Stackable,-
+YES,Sand,sand,64 Stackable,-
+YES,Red Sand,red_sand,64 Stackable,-
+YES,Gravel,gravel,64 Stackable,-
+YES,Coal Ore,coal_ore,64 Stackable,-
+YES,Deepslate Coal Ore,deepslate_coal_ore,64 Stackable,-
+YES,Iron Ore,iron_ore,64 Stackable,-
+YES,Deepslate Iron Ore,deepslate_iron_ore,64 Stackable,-
+YES,Copper Ore,copper_ore,64 Stackable,-
+YES,Deepslate Copper Ore,deepslate_copper_ore,64 Stackable,-
+YES,Gold Ore,gold_ore,64 Stackable,-
+YES,Deepslate Gold Ore,deepslate_gold_ore,64 Stackable,-
+YES,Redstone Ore,redstone_ore,64 Stackable,-
+YES,Deepslate Redstone Ore,deepslate_redstone_ore,64 Stackable,-
+YES,Emerald Ore,emerald_ore,64 Stackable,-
+YES,Deepslate Emerald Ore,deepslate_emerald_ore,64 Stackable,-
+YES,Lapis Lazuli Ore,lapis_ore,64 Stackable,-
+YES,Deepslate Lapis Lazuli Ore,deepslate_lapis_ore,64 Stackable,-
+YES,Diamond Ore,diamond_ore,64 Stackable,-
+YES,Deepslate Diamond Ore,deepslate_diamond_ore,64 Stackable,-
+YES,Nether Gold Ore,nether_gold_ore,64 Stackable,-
+YES,Nether Quartz Ore,nether_quartz_ore,64 Stackable,-
+YES,Ancient Debris,ancient_debris,64 Stackable,-
+YES,Block of Coal,coal_block,64 Stackable,-
+YES,Block of Raw Iron,raw_iron_block,64 Stackable,-
+YES,Block of Raw Copper,raw_copper_block,64 Stackable,-
+YES,Block of Raw Gold,raw_gold_block,64 Stackable,-
+YES,Block of Amethyst,amethyst_block,64 Stackable,-
+YES,Block of Iron,iron_block,64 Stackable,-
+YES,Block of Copper,copper_block,64 Stackable,-
+YES,Block of Gold,gold_block,64 Stackable,-
+YES,Block of Diamond,diamond_block,64 Stackable,-
+YES,Block of Netherite,netherite_block,64 Stackable,-
+YES,Exposed Copper,exposed_copper,64 Stackable,-
+YES,Weathered Copper,weathered_copper,64 Stackable,-
+YES,Oxidized Copper,oxidized_copper,64 Stackable,-
+YES,Cut Copper,cut_copper,64 Stackable,-
+YES,Exposed Cut Copper,exposed_cut_copper,64 Stackable,-
+YES,Weathered Cut Copper,weathered_cut_copper,64 Stackable,-
+YES,Oxidized Cut Copper,oxidized_cut_copper,64 Stackable,-
+YES,Cut Copper Stairs,cut_copper_stairs,64 Stackable,-
+YES,Exposed Cut Copper Stairs,exposed_cut_copper_stairs,64 Stackable,-
+YES,Weathered Cut Copper Stairs,weathered_cut_copper_stairs,64 Stackable,-
+YES,Oxidized Cut Copper Stairs,oxidized_cut_copper_stairs,64 Stackable,-
+YES,Cut Copper Slab,cut_copper_slab,64 Stackable,-
+YES,Exposed Cut Copper Slab,exposed_cut_copper_slab,64 Stackable,-
+YES,Weathered Cut Copper Slab,weathered_cut_copper_slab,64 Stackable,-
+YES,Oxidized Cut Copper Slab,oxidized_cut_copper_slab,64 Stackable,-
+YES,Waxed Block of Copper,waxed_copper_block,64 Stackable,-
+YES,Waxed Exposed Copper,waxed_exposed_copper,64 Stackable,-
+YES,Waxed Weathered Copper,waxed_weathered_copper,64 Stackable,-
+YES,Waxed Oxidized Copper,waxed_oxidized_copper,64 Stackable,-
+YES,Waxed Cut Copper,waxed_cut_copper,64 Stackable,-
+YES,Waxed Exposed Cut Copper,waxed_exposed_cut_copper,64 Stackable,-
+YES,Waxed Weathered Cut Copper,waxed_weathered_cut_copper,64 Stackable,-
+YES,Waxed Oxidized Cut Copper,waxed_oxidized_cut_copper,64 Stackable,-
+YES,Waxed Cut Copper Stairs,waxed_cut_copper_stairs,64 Stackable,-
+YES,Waxed Exposed Cut Copper Stairs,waxed_exposed_cut_copper_stairs,64 Stackable,-
+YES,Waxed Weathered Cut Copper Stairs,waxed_weathered_cut_copper_stairs,64 Stackable,-
+YES,Waxed Oxidized Cut Copper Stairs,waxed_oxidized_cut_copper_stairs,64 Stackable,-
+YES,Waxed Cut Copper Slab,waxed_cut_copper_slab,64 Stackable,-
+YES,Waxed Exposed Cut Copper Slab,waxed_exposed_cut_copper_slab,64 Stackable,-
+YES,Waxed Weathered Cut Copper Slab,waxed_weathered_cut_copper_slab,64 Stackable,-
+YES,Waxed Oxidized Cut Copper Slab,waxed_oxidized_cut_copper_slab,64 Stackable,-
+YES,Oak Log,oak_log,64 Stackable,-
+YES,Spruce Log,spruce_log,64 Stackable,-
+YES,Birch Log,birch_log,64 Stackable,-
+YES,Jungle Log,jungle_log,64 Stackable,-
+YES,Acacia Log,acacia_log,64 Stackable,-
+YES,Dark Oak Log,dark_oak_log,64 Stackable,-
+YES,Mangrove Log,mangrove_log,64 Stackable,-
+YES,Mangrove Roots,mangrove_roots,64 Stackable,-
+YES,Muddy Mangrove Roots,muddy_mangrove_roots,64 Stackable,-
+YES,Crimson Stem,crimson_stem,64 Stackable,-
+YES,Warped Stem,warped_stem,64 Stackable,-
+YES,Stripped Oak Log,stripped_oak_log,64 Stackable,-
+YES,Stripped Spruce Log,stripped_spruce_log,64 Stackable,-
+YES,Stripped Birch Log,stripped_birch_log,64 Stackable,-
+YES,Stripped Jungle Log,stripped_jungle_log,64 Stackable,-
+YES,Stripped Acacia Log,stripped_acacia_log,64 Stackable,-
+YES,Stripped Dark Oak Log,stripped_dark_oak_log,64 Stackable,-
+YES,Stripped Mangrove Log,stripped_mangrove_log,64 Stackable,-
+YES,Stripped Crimson Stem,stripped_crimson_stem,64 Stackable,-
+YES,Stripped Warped Stem,stripped_warped_stem,64 Stackable,-
+YES,Stripped Oak Wood,stripped_oak_wood,64 Stackable,-
+YES,Stripped Spruce Wood,stripped_spruce_wood,64 Stackable,-
+YES,Stripped Birch Wood,stripped_birch_wood,64 Stackable,-
+YES,Stripped Jungle Wood,stripped_jungle_wood,64 Stackable,-
+YES,Stripped Acacia Wood,stripped_acacia_wood,64 Stackable,-
+YES,Stripped Dark Oak Wood,stripped_dark_oak_wood,64 Stackable,-
+YES,Stripped Mangrove Wood,stripped_mangrove_wood,64 Stackable,-
+YES,Stripped Crimson Hyphae,stripped_crimson_hyphae,64 Stackable,-
+YES,Stripped Warped Hyphae,stripped_warped_hyphae,64 Stackable,-
+YES,Oak Wood,oak_wood,64 Stackable,-
+YES,Spruce Wood,spruce_wood,64 Stackable,-
+YES,Birch Wood,birch_wood,64 Stackable,-
+YES,Jungle Wood,jungle_wood,64 Stackable,-
+YES,Acacia Wood,acacia_wood,64 Stackable,-
+YES,Dark Oak Wood,dark_oak_wood,64 Stackable,-
+YES,Mangrove Wood,mangrove_wood,64 Stackable,-
+YES,Crimson Hyphae,crimson_hyphae,64 Stackable,-
+YES,Warped Hyphae,warped_hyphae,64 Stackable,-
+YES,Oak Leaves,oak_leaves,64 Stackable,-
+YES,Spruce Leaves,spruce_leaves,64 Stackable,-
+YES,Birch Leaves,birch_leaves,64 Stackable,-
+YES,Jungle Leaves,jungle_leaves,64 Stackable,-
+YES,Acacia Leaves,acacia_leaves,64 Stackable,-
+YES,Dark Oak Leaves,dark_oak_leaves,64 Stackable,-
+YES,Mangrove Leaves,mangrove_leaves,64 Stackable,-
+YES,Azalea Leaves,azalea_leaves,64 Stackable,-
+YES,Flowering Azalea Leaves,flowering_azalea_leaves,64 Stackable,-
+YES,Sponge,sponge,64 Stackable,-
+YES,Wet Sponge,wet_sponge,64 Stackable,-
+YES,Glass,glass,64 Stackable,-
+YES,Tinted Glass,tinted_glass,64 Stackable,-
+YES,Block of Lapis Lazuli,lapis_block,64 Stackable,-
+YES,Sandstone,sandstone,64 Stackable,-
+YES,Chiseled Sandstone,chiseled_sandstone,64 Stackable,-
+YES,Cut Sandstone,cut_sandstone,64 Stackable,-
+YES,Cobweb,cobweb,64 Stackable,-
+YES,Grass,grass,64 Stackable,-
+YES,Fern,fern,64 Stackable,-
+YES,Azalea,azalea,64 Stackable,-
+YES,Flowering Azalea,flowering_azalea,64 Stackable,-
+YES,Dead Bush,dead_bush,64 Stackable,-
+YES,Seagrass,seagrass,64 Stackable,-
+YES,Sea Pickle,sea_pickle,64 Stackable,-
+YES,White Wool,white_wool,64 Stackable,-
+YES,Orange Wool,orange_wool,64 Stackable,-
+YES,Magenta Wool,magenta_wool,64 Stackable,-
+YES,Light Blue Wool,light_blue_wool,64 Stackable,-
+YES,Yellow Wool,yellow_wool,64 Stackable,-
+YES,Lime Wool,lime_wool,64 Stackable,-
+YES,Pink Wool,pink_wool,64 Stackable,-
+YES,Gray Wool,gray_wool,64 Stackable,-
+YES,Light Gray Wool,light_gray_wool,64 Stackable,-
+YES,Cyan Wool,cyan_wool,64 Stackable,-
+YES,Purple Wool,purple_wool,64 Stackable,-
+YES,Blue Wool,blue_wool,64 Stackable,-
+YES,Brown Wool,brown_wool,64 Stackable,-
+YES,Green Wool,green_wool,64 Stackable,-
+YES,Red Wool,red_wool,64 Stackable,-
+YES,Black Wool,black_wool,64 Stackable,-
+YES,Dandelion,dandelion,64 Stackable,-
+YES,Poppy,poppy,64 Stackable,-
+YES,Blue Orchid,blue_orchid,64 Stackable,-
+YES,Allium,allium,64 Stackable,-
+YES,Azure Bluet,azure_bluet,64 Stackable,-
+YES,Red Tulip,red_tulip,64 Stackable,-
+YES,Orange Tulip,orange_tulip,64 Stackable,-
+YES,White Tulip,white_tulip,64 Stackable,-
+YES,Pink Tulip,pink_tulip,64 Stackable,-
+YES,Oxeye Daisy,oxeye_daisy,64 Stackable,-
+YES,Cornflower,cornflower,64 Stackable,-
+YES,Lily of the Valley,lily_of_the_valley,64 Stackable,-
+YES,Wither Rose,wither_rose,64 Stackable,-
+YES,Spore Blossom,spore_blossom,64 Stackable,-
+YES,Brown Mushroom,brown_mushroom,64 Stackable,-
+YES,Red Mushroom,red_mushroom,64 Stackable,-
+YES,Crimson Fungus,crimson_fungus,64 Stackable,-
+YES,Warped Fungus,warped_fungus,64 Stackable,-
+YES,Crimson Roots,crimson_roots,64 Stackable,-
+YES,Warped Roots,warped_roots,64 Stackable,-
+YES,Nether Sprouts,nether_sprouts,64 Stackable,-
+YES,Weeping Vines,weeping_vines,64 Stackable,-
+YES,Twisting Vines,twisting_vines,64 Stackable,-
+YES,Sugar Cane,sugar_cane,64 Stackable,-
+YES,Kelp,kelp,64 Stackable,-
+YES,Moss Carpet,moss_carpet,64 Stackable,-
+YES,Moss Block,moss_block,64 Stackable,-
+YES,Hanging Roots,hanging_roots,64 Stackable,-
+YES,Big Dripleaf,big_dripleaf,64 Stackable,-
+YES,Small Dripleaf,small_dripleaf,64 Stackable,-
+YES,Bamboo,bamboo,64 Stackable,-
+YES,Oak Slab,oak_slab,64 Stackable,-
+YES,Spruce Slab,spruce_slab,64 Stackable,-
+YES,Birch Slab,birch_slab,64 Stackable,-
+YES,Jungle Slab,jungle_slab,64 Stackable,-
+YES,Acacia Slab,acacia_slab,64 Stackable,-
+YES,Dark Oak Slab,dark_oak_slab,64 Stackable,-
+YES,Mangrove Slab,mangrove_slab,64 Stackable,-
+YES,Crimson Slab,crimson_slab,64 Stackable,-
+YES,Warped Slab,warped_slab,64 Stackable,-
+YES,Stone Slab,stone_slab,64 Stackable,-
+YES,Smooth Stone Slab,smooth_stone_slab,64 Stackable,-
+YES,Sandstone Slab,sandstone_slab,64 Stackable,-
+YES,Cut Sandstone Slab,cut_sandstone_slab,64 Stackable,-
+YES,Cobblestone Slab,cobblestone_slab,64 Stackable,-
+YES,Brick Slab,brick_slab,64 Stackable,-
+YES,Stone Brick Slab,stone_brick_slab,64 Stackable,-
+YES,Mud Brick Slab,mud_brick_slab,64 Stackable,-
+YES,Nether Brick Slab,nether_brick_slab,64 Stackable,-
+YES,Quartz Slab,quartz_slab,64 Stackable,-
+YES,Red Sandstone Slab,red_sandstone_slab,64 Stackable,-
+YES,Cut Red Sandstone Slab,cut_red_sandstone_slab,64 Stackable,-
+YES,Purpur Slab,purpur_slab,64 Stackable,-
+YES,Prismarine Slab,prismarine_slab,64 Stackable,-
+YES,Prismarine Brick Slab,prismarine_brick_slab,64 Stackable,-
+YES,Dark Prismarine Slab,dark_prismarine_slab,64 Stackable,-
+YES,Smooth Quartz Block,smooth_quartz,64 Stackable,-
+YES,Smooth Red Sandstone,smooth_red_sandstone,64 Stackable,-
+YES,Smooth Sandstone,smooth_sandstone,64 Stackable,-
+YES,Smooth Stone,smooth_stone,64 Stackable,-
+YES,Bricks,bricks,64 Stackable,-
+YES,Bookshelf,bookshelf,64 Stackable,-
+YES,Mossy Cobblestone,mossy_cobblestone,64 Stackable,-
+YES,Obsidian,obsidian,64 Stackable,-
+YES,Torch,torch,64 Stackable,-
+YES,End Rod,end_rod,64 Stackable,-
+YES,Chorus Flower,chorus_flower,64 Stackable,-
+YES,Purpur Block,purpur_block,64 Stackable,-
+YES,Purpur Pillar,purpur_pillar,64 Stackable,-
+YES,Purpur Stairs,purpur_stairs,64 Stackable,-
+YES,Chest,chest,64 Stackable,-
+YES,Crafting Table,crafting_table,64 Stackable,-
+YES,Furnace,furnace,64 Stackable,-
+YES,Ladder,ladder,64 Stackable,-
+YES,Cobblestone Stairs,cobblestone_stairs,64 Stackable,-
+YES,Snow,snow,64 Stackable,-
+YES,Ice,ice,64 Stackable,-
+YES,Snow Block,snow_block,64 Stackable,-
+YES,Cactus,cactus,64 Stackable,-
+YES,Clay,clay,64 Stackable,-
+YES,Jukebox,jukebox,64 Stackable,-
+YES,Oak Fence,oak_fence,64 Stackable,-
+YES,Spruce Fence,spruce_fence,64 Stackable,-
+YES,Birch Fence,birch_fence,64 Stackable,-
+YES,Jungle Fence,jungle_fence,64 Stackable,-
+YES,Acacia Fence,acacia_fence,64 Stackable,-
+YES,Dark Oak Fence,dark_oak_fence,64 Stackable,-
+YES,Mangrove Fence,mangrove_fence,64 Stackable,-
+YES,Crimson Fence,crimson_fence,64 Stackable,-
+YES,Warped Fence,warped_fence,64 Stackable,-
+YES,Pumpkin,pumpkin,64 Stackable,-
+YES,Carved Pumpkin,carved_pumpkin,64 Stackable,-
+YES,Jack o'Lantern,jack_o_lantern,64 Stackable,-
+YES,Netherrack,netherrack,64 Stackable,-
+YES,Soul Sand,soul_sand,64 Stackable,-
+YES,Soul Soil,soul_soil,64 Stackable,-
+YES,Basalt,basalt,64 Stackable,-
+YES,Polished Basalt,polished_basalt,64 Stackable,-
+YES,Smooth Basalt,smooth_basalt,64 Stackable,-
+YES,Soul Torch,soul_torch,64 Stackable,-
+YES,Glowstone,glowstone,64 Stackable,-
+YES,Stone Bricks,stone_bricks,64 Stackable,-
+YES,Mossy Stone Bricks,mossy_stone_bricks,64 Stackable,-
+YES,Cracked Stone Bricks,cracked_stone_bricks,64 Stackable,-
+YES,Chiseled Stone Bricks,chiseled_stone_bricks,64 Stackable,-
+YES,Packed Mud,packed_mud,64 Stackable,-
+YES,Mud Bricks,mud_bricks,64 Stackable,-
+YES,Deepslate Bricks,deepslate_bricks,64 Stackable,-
+YES,Cracked Deepslate Bricks,cracked_deepslate_bricks,64 Stackable,-
+YES,Deepslate Tiles,deepslate_tiles,64 Stackable,-
+YES,Cracked Deepslate Tiles,cracked_deepslate_tiles,64 Stackable,-
+YES,Chiseled Deepslate,chiseled_deepslate,64 Stackable,-
+YES,Brown Mushroom Block,brown_mushroom_block,64 Stackable,-
+YES,Red Mushroom Block,red_mushroom_block,64 Stackable,-
+YES,Mushroom Stem,mushroom_stem,64 Stackable,-
+YES,Iron Bars,iron_bars,64 Stackable,-
+YES,Chain,chain,64 Stackable,-
+YES,Glass Pane,glass_pane,64 Stackable,-
+YES,Melon,melon,64 Stackable,-
+YES,Vines,vine,64 Stackable,-
+YES,Glow Lichen,glow_lichen,64 Stackable,-
+YES,Brick Stairs,brick_stairs,64 Stackable,-
+YES,Stone Brick Stairs,stone_brick_stairs,64 Stackable,-
+YES,Mud Brick Stairs,mud_brick_stairs,64 Stackable,-
+YES,Mycelium,mycelium,64 Stackable,-
+YES,Lily Pad,lily_pad,64 Stackable,-
+YES,Nether Bricks,nether_bricks,64 Stackable,-
+YES,Cracked Nether Bricks,cracked_nether_bricks,64 Stackable,-
+YES,Chiseled Nether Bricks,chiseled_nether_bricks,64 Stackable,-
+YES,Nether Brick Fence,nether_brick_fence,64 Stackable,-
+YES,Nether Brick Stairs,nether_brick_stairs,64 Stackable,-
+YES,Sculk,sculk,64 Stackable,-
+YES,Sculk Vein,sculk_vein,64 Stackable,-
+YES,Sculk Catalyst,sculk_catalyst,64 Stackable,-
+YES,Sculk Shrieker,sculk_shrieker,64 Stackable,-
+YES,Enchanting Table,enchanting_table,64 Stackable,-
+YES,End Stone,end_stone,64 Stackable,-
+YES,End Stone Bricks,end_stone_bricks,64 Stackable,-
+YES,Dragon Egg,dragon_egg,64 Stackable,-
+YES,Sandstone Stairs,sandstone_stairs,64 Stackable,-
+YES,Ender Chest,ender_chest,64 Stackable,-
+YES,Block of Emerald,emerald_block,64 Stackable,-
+YES,Oak Stairs,oak_stairs,64 Stackable,-
+YES,Spruce Stairs,spruce_stairs,64 Stackable,-
+YES,Birch Stairs,birch_stairs,64 Stackable,-
+YES,Jungle Stairs,jungle_stairs,64 Stackable,-
+YES,Acacia Stairs,acacia_stairs,64 Stackable,-
+YES,Dark Oak Stairs,dark_oak_stairs,64 Stackable,-
+YES,Mangrove Stairs,mangrove_stairs,64 Stackable,-
+YES,Crimson Stairs,crimson_stairs,64 Stackable,-
+YES,Warped Stairs,warped_stairs,64 Stackable,-
+YES,Beacon,beacon,64 Stackable,-
+YES,Cobblestone Wall,cobblestone_wall,64 Stackable,-
+YES,Mossy Cobblestone Wall,mossy_cobblestone_wall,64 Stackable,-
+YES,Brick Wall,brick_wall,64 Stackable,-
+YES,Prismarine Wall,prismarine_wall,64 Stackable,-
+YES,Red Sandstone Wall,red_sandstone_wall,64 Stackable,-
+YES,Mossy Stone Brick Wall,mossy_stone_brick_wall,64 Stackable,-
+YES,Granite Wall,granite_wall,64 Stackable,-
+YES,Stone Brick Wall,stone_brick_wall,64 Stackable,-
+YES,Mud Brick Wall,mud_brick_wall,64 Stackable,-
+YES,Nether Brick Wall,nether_brick_wall,64 Stackable,-
+YES,Andesite Wall,andesite_wall,64 Stackable,-
+YES,Red Nether Brick Wall,red_nether_brick_wall,64 Stackable,-
+YES,Sandstone Wall,sandstone_wall,64 Stackable,-
+YES,End Stone Brick Wall,end_stone_brick_wall,64 Stackable,-
+YES,Diorite Wall,diorite_wall,64 Stackable,-
+YES,Blackstone Wall,blackstone_wall,64 Stackable,-
+YES,Polished Blackstone Wall,polished_blackstone_wall,64 Stackable,-
+YES,Polished Blackstone Brick Wall,polished_blackstone_brick_wall,64 Stackable,-
+YES,Cobbled Deepslate Wall,cobbled_deepslate_wall,64 Stackable,-
+YES,Polished Deepslate Wall,polished_deepslate_wall,64 Stackable,-
+YES,Deepslate Brick Wall,deepslate_brick_wall,64 Stackable,-
+YES,Deepslate Tile Wall,deepslate_tile_wall,64 Stackable,-
+YES,Anvil,anvil,64 Stackable,-
+YES,Chipped Anvil,chipped_anvil,64 Stackable,-
+YES,Damaged Anvil,damaged_anvil,64 Stackable,-
+YES,Chiseled Quartz Block,chiseled_quartz_block,64 Stackable,-
+YES,Block of Quartz,quartz_block,64 Stackable,-
+YES,Quartz Bricks,quartz_bricks,64 Stackable,-
+YES,Quartz Pillar,quartz_pillar,64 Stackable,-
+YES,Quartz Stairs,quartz_stairs,64 Stackable,-
+YES,White Terracotta,white_terracotta,64 Stackable,-
+YES,Orange Terracotta,orange_terracotta,64 Stackable,-
+YES,Magenta Terracotta,magenta_terracotta,64 Stackable,-
+YES,Light Blue Terracotta,light_blue_terracotta,64 Stackable,-
+YES,Yellow Terracotta,yellow_terracotta,64 Stackable,-
+YES,Lime Terracotta,lime_terracotta,64 Stackable,-
+YES,Pink Terracotta,pink_terracotta,64 Stackable,-
+YES,Gray Terracotta,gray_terracotta,64 Stackable,-
+YES,Light Gray Terracotta,light_gray_terracotta,64 Stackable,-
+YES,Cyan Terracotta,cyan_terracotta,64 Stackable,-
+YES,Purple Terracotta,purple_terracotta,64 Stackable,-
+YES,Blue Terracotta,blue_terracotta,64 Stackable,-
+YES,Brown Terracotta,brown_terracotta,64 Stackable,-
+YES,Green Terracotta,green_terracotta,64 Stackable,-
+YES,Red Terracotta,red_terracotta,64 Stackable,-
+YES,Black Terracotta,black_terracotta,64 Stackable,-
+YES,Hay Bale,hay_block,64 Stackable,-
+YES,White Carpet,white_carpet,64 Stackable,-
+YES,Orange Carpet,orange_carpet,64 Stackable,-
+YES,Magenta Carpet,magenta_carpet,64 Stackable,-
+YES,Light Blue Carpet,light_blue_carpet,64 Stackable,-
+YES,Yellow Carpet,yellow_carpet,64 Stackable,-
+YES,Lime Carpet,lime_carpet,64 Stackable,-
+YES,Pink Carpet,pink_carpet,64 Stackable,-
+YES,Gray Carpet,gray_carpet,64 Stackable,-
+YES,Light Gray Carpet,light_gray_carpet,64 Stackable,-
+YES,Cyan Carpet,cyan_carpet,64 Stackable,-
+YES,Purple Carpet,purple_carpet,64 Stackable,-
+YES,Blue Carpet,blue_carpet,64 Stackable,-
+YES,Brown Carpet,brown_carpet,64 Stackable,-
+YES,Green Carpet,green_carpet,64 Stackable,-
+YES,Red Carpet,red_carpet,64 Stackable,-
+YES,Black Carpet,black_carpet,64 Stackable,-
+YES,Terracotta,terracotta,64 Stackable,-
+YES,Packed Ice,packed_ice,64 Stackable,-
+YES,Sunflower,sunflower,64 Stackable,-
+YES,Lilac,lilac,64 Stackable,-
+YES,Rose Bush,rose_bush,64 Stackable,-
+YES,Peony,peony,64 Stackable,-
+YES,Tall Grass,tall_grass,64 Stackable,-
+YES,Large Fern,large_fern,64 Stackable,-
+YES,White Stained Glass,white_stained_glass,64 Stackable,-
+YES,Orange Stained Glass,orange_stained_glass,64 Stackable,-
+YES,Magenta Stained Glass,magenta_stained_glass,64 Stackable,-
+YES,Light Blue Stained Glass,light_blue_stained_glass,64 Stackable,-
+YES,Yellow Stained Glass,yellow_stained_glass,64 Stackable,-
+YES,Lime Stained Glass,lime_stained_glass,64 Stackable,-
+YES,Pink Stained Glass,pink_stained_glass,64 Stackable,-
+YES,Gray Stained Glass,gray_stained_glass,64 Stackable,-
+YES,Light Gray Stained Glass,light_gray_stained_glass,64 Stackable,-
+YES,Cyan Stained Glass,cyan_stained_glass,64 Stackable,-
+YES,Purple Stained Glass,purple_stained_glass,64 Stackable,-
+YES,Blue Stained Glass,blue_stained_glass,64 Stackable,-
+YES,Brown Stained Glass,brown_stained_glass,64 Stackable,-
+YES,Green Stained Glass,green_stained_glass,64 Stackable,-
+YES,Red Stained Glass,red_stained_glass,64 Stackable,-
+YES,Black Stained Glass,black_stained_glass,64 Stackable,-
+YES,White Stained Glass Pane,white_stained_glass_pane,64 Stackable,-
+YES,Orange Stained Glass Pane,orange_stained_glass_pane,64 Stackable,-
+YES,Magenta Stained Glass Pane,magenta_stained_glass_pane,64 Stackable,-
+YES,Light Blue Stained Glass Pane,light_blue_stained_glass_pane,64 Stackable,-
+YES,Yellow Stained Glass Pane,yellow_stained_glass_pane,64 Stackable,-
+YES,Lime Stained Glass Pane,lime_stained_glass_pane,64 Stackable,-
+YES,Pink Stained Glass Pane,pink_stained_glass_pane,64 Stackable,-
+YES,Gray Stained Glass Pane,gray_stained_glass_pane,64 Stackable,-
+YES,Light Gray Stained Glass Pane,light_gray_stained_glass_pane,64 Stackable,-
+YES,Cyan Stained Glass Pane,cyan_stained_glass_pane,64 Stackable,-
+YES,Purple Stained Glass Pane,purple_stained_glass_pane,64 Stackable,-
+YES,Blue Stained Glass Pane,blue_stained_glass_pane,64 Stackable,-
+YES,Brown Stained Glass Pane,brown_stained_glass_pane,64 Stackable,-
+YES,Green Stained Glass Pane,green_stained_glass_pane,64 Stackable,-
+YES,Red Stained Glass Pane,red_stained_glass_pane,64 Stackable,-
+YES,Black Stained Glass Pane,black_stained_glass_pane,64 Stackable,-
+YES,Prismarine,prismarine,64 Stackable,-
+YES,Prismarine Bricks,prismarine_bricks,64 Stackable,-
+YES,Dark Prismarine,dark_prismarine,64 Stackable,-
+YES,Prismarine Stairs,prismarine_stairs,64 Stackable,-
+YES,Prismarine Brick Stairs,prismarine_brick_stairs,64 Stackable,-
+YES,Dark Prismarine Stairs,dark_prismarine_stairs,64 Stackable,-
+YES,Sea Lantern,sea_lantern,64 Stackable,-
+YES,Red Sandstone,red_sandstone,64 Stackable,-
+YES,Chiseled Red Sandstone,chiseled_red_sandstone,64 Stackable,-
+YES,Cut Red Sandstone,cut_red_sandstone,64 Stackable,-
+YES,Red Sandstone Stairs,red_sandstone_stairs,64 Stackable,-
+YES,Magma Block,magma_block,64 Stackable,-
+YES,Nether Wart Block,nether_wart_block,64 Stackable,-
+YES,Warped Wart Block,warped_wart_block,64 Stackable,-
+YES,Red Nether Bricks,red_nether_bricks,64 Stackable,-
+YES,Bone Block,bone_block,64 Stackable,-
+YES,Shulker Box,shulker_box,Unstackable,
+YES,White Shulker Box,white_shulker_box,Unstackable,
+YES,Orange Shulker Box,orange_shulker_box,Unstackable,
+YES,Magenta Shulker Box,magenta_shulker_box,Unstackable,
+YES,Light Blue Shulker Box,light_blue_shulker_box,Unstackable,
+YES,Yellow Shulker Box,yellow_shulker_box,Unstackable,
+YES,Lime Shulker Box,lime_shulker_box,Unstackable,
+YES,Pink Shulker Box,pink_shulker_box,Unstackable,
+YES,Gray Shulker Box,gray_shulker_box,Unstackable,
+YES,Light Gray Shulker Box,light_gray_shulker_box,Unstackable,
+YES,Cyan Shulker Box,cyan_shulker_box,Unstackable,
+YES,Purple Shulker Box,purple_shulker_box,Unstackable,
+YES,Blue Shulker Box,blue_shulker_box,Unstackable,
+YES,Brown Shulker Box,brown_shulker_box,Unstackable,
+YES,Green Shulker Box,green_shulker_box,Unstackable,
+YES,Red Shulker Box,red_shulker_box,Unstackable,
+YES,Black Shulker Box,black_shulker_box,Unstackable,
+YES,White Glazed Terracotta,white_glazed_terracotta,64 Stackable,-
+YES,Orange Glazed Terracotta,orange_glazed_terracotta,64 Stackable,-
+YES,Magenta Glazed Terracotta,magenta_glazed_terracotta,64 Stackable,-
+YES,Light Blue Glazed Terracotta,light_blue_glazed_terracotta,64 Stackable,-
+YES,Yellow Glazed Terracotta,yellow_glazed_terracotta,64 Stackable,-
+YES,Lime Glazed Terracotta,lime_glazed_terracotta,64 Stackable,-
+YES,Pink Glazed Terracotta,pink_glazed_terracotta,64 Stackable,-
+YES,Gray Glazed Terracotta,gray_glazed_terracotta,64 Stackable,-
+YES,Light Gray Glazed Terracotta,light_gray_glazed_terracotta,64 Stackable,-
+YES,Cyan Glazed Terracotta,cyan_glazed_terracotta,64 Stackable,-
+YES,Purple Glazed Terracotta,purple_glazed_terracotta,64 Stackable,-
+YES,Blue Glazed Terracotta,blue_glazed_terracotta,64 Stackable,-
+YES,Brown Glazed Terracotta,brown_glazed_terracotta,64 Stackable,-
+YES,Green Glazed Terracotta,green_glazed_terracotta,64 Stackable,-
+YES,Red Glazed Terracotta,red_glazed_terracotta,64 Stackable,-
+YES,Black Glazed Terracotta,black_glazed_terracotta,64 Stackable,-
+YES,White Concrete,white_concrete,64 Stackable,-
+YES,Orange Concrete,orange_concrete,64 Stackable,-
+YES,Magenta Concrete,magenta_concrete,64 Stackable,-
+YES,Light Blue Concrete,light_blue_concrete,64 Stackable,-
+YES,Yellow Concrete,yellow_concrete,64 Stackable,-
+YES,Lime Concrete,lime_concrete,64 Stackable,-
+YES,Pink Concrete,pink_concrete,64 Stackable,-
+YES,Gray Concrete,gray_concrete,64 Stackable,-
+YES,Light Gray Concrete,light_gray_concrete,64 Stackable,-
+YES,Cyan Concrete,cyan_concrete,64 Stackable,-
+YES,Purple Concrete,purple_concrete,64 Stackable,-
+YES,Blue Concrete,blue_concrete,64 Stackable,-
+YES,Brown Concrete,brown_concrete,64 Stackable,-
+YES,Green Concrete,green_concrete,64 Stackable,-
+YES,Red Concrete,red_concrete,64 Stackable,-
+YES,Black Concrete,black_concrete,64 Stackable,-
+YES,White Concrete Powder,white_concrete_powder,64 Stackable,-
+YES,Orange Concrete Powder,orange_concrete_powder,64 Stackable,-
+YES,Magenta Concrete Powder,magenta_concrete_powder,64 Stackable,-
+YES,Light Blue Concrete Powder,light_blue_concrete_powder,64 Stackable,-
+YES,Yellow Concrete Powder,yellow_concrete_powder,64 Stackable,-
+YES,Lime Concrete Powder,lime_concrete_powder,64 Stackable,-
+YES,Pink Concrete Powder,pink_concrete_powder,64 Stackable,-
+YES,Gray Concrete Powder,gray_concrete_powder,64 Stackable,-
+YES,Light Gray Concrete Powder,light_gray_concrete_powder,64 Stackable,-
+YES,Cyan Concrete Powder,cyan_concrete_powder,64 Stackable,-
+YES,Purple Concrete Powder,purple_concrete_powder,64 Stackable,-
+YES,Blue Concrete Powder,blue_concrete_powder,64 Stackable,-
+YES,Brown Concrete Powder,brown_concrete_powder,64 Stackable,-
+YES,Green Concrete Powder,green_concrete_powder,64 Stackable,-
+YES,Red Concrete Powder,red_concrete_powder,64 Stackable,-
+YES,Black Concrete Powder,black_concrete_powder,64 Stackable,-
+YES,Turtle Egg,turtle_egg,64 Stackable,-
+YES,Dead Tube Coral Block,dead_tube_coral_block,64 Stackable,-
+YES,Dead Brain Coral Block,dead_brain_coral_block,64 Stackable,-
+YES,Dead Bubble Coral Block,dead_bubble_coral_block,64 Stackable,-
+YES,Dead Fire Coral Block,dead_fire_coral_block,64 Stackable,-
+YES,Dead Horn Coral Block,dead_horn_coral_block,64 Stackable,-
+YES,Tube Coral Block,tube_coral_block,64 Stackable,-
+YES,Brain Coral Block,brain_coral_block,64 Stackable,-
+YES,Bubble Coral Block,bubble_coral_block,64 Stackable,-
+YES,Fire Coral Block,fire_coral_block,64 Stackable,-
+YES,Horn Coral Block,horn_coral_block,64 Stackable,-
+YES,Tube Coral,tube_coral,64 Stackable,-
+YES,Brain Coral,brain_coral,64 Stackable,-
+YES,Bubble Coral,bubble_coral,64 Stackable,-
+YES,Fire Coral,fire_coral,64 Stackable,-
+YES,Horn Coral,horn_coral,64 Stackable,-
+YES,Dead Brain Coral,dead_brain_coral,64 Stackable,-
+YES,Dead Bubble Coral,dead_bubble_coral,64 Stackable,-
+YES,Dead Fire Coral,dead_fire_coral,64 Stackable,-
+YES,Dead Horn Coral,dead_horn_coral,64 Stackable,-
+YES,Dead Tube Coral,dead_tube_coral,64 Stackable,-
+YES,Tube Coral Fan,tube_coral_fan,64 Stackable,-
+YES,Brain Coral Fan,brain_coral_fan,64 Stackable,-
+YES,Bubble Coral Fan,bubble_coral_fan,64 Stackable,-
+YES,Fire Coral Fan,fire_coral_fan,64 Stackable,-
+YES,Horn Coral Fan,horn_coral_fan,64 Stackable,-
+YES,Dead Tube Coral Fan,dead_tube_coral_fan,64 Stackable,-
+YES,Dead Brain Coral Fan,dead_brain_coral_fan,64 Stackable,-
+YES,Dead Bubble Coral Fan,dead_bubble_coral_fan,64 Stackable,-
+YES,Dead Fire Coral Fan,dead_fire_coral_fan,64 Stackable,-
+YES,Dead Horn Coral Fan,dead_horn_coral_fan,64 Stackable,-
+YES,Blue Ice,blue_ice,64 Stackable,-
+YES,Conduit,conduit,64 Stackable,-
+YES,Polished Granite Stairs,polished_granite_stairs,64 Stackable,-
+YES,Smooth Red Sandstone Stairs,smooth_red_sandstone_stairs,64 Stackable,-
+YES,Mossy Stone Brick Stairs,mossy_stone_brick_stairs,64 Stackable,-
+YES,Polished Diorite Stairs,polished_diorite_stairs,64 Stackable,-
+YES,Mossy Cobblestone Stairs,mossy_cobblestone_stairs,64 Stackable,-
+YES,End Stone Brick Stairs,end_stone_brick_stairs,64 Stackable,-
+YES,Stone Stairs,stone_stairs,64 Stackable,-
+YES,Smooth Sandstone Stairs,smooth_sandstone_stairs,64 Stackable,-
+YES,Smooth Quartz Stairs,smooth_quartz_stairs,64 Stackable,-
+YES,Granite Stairs,granite_stairs,64 Stackable,-
+YES,Andesite Stairs,andesite_stairs,64 Stackable,-
+YES,Red Nether Brick Stairs,red_nether_brick_stairs,64 Stackable,-
+YES,Polished Andesite Stairs,polished_andesite_stairs,64 Stackable,-
+YES,Diorite Stairs,diorite_stairs,64 Stackable,-
+YES,Cobbled Deepslate Stairs,cobbled_deepslate_stairs,64 Stackable,-
+YES,Polished Deepslate Stairs,polished_deepslate_stairs,64 Stackable,-
+YES,Deepslate Brick Stairs,deepslate_brick_stairs,64 Stackable,-
+YES,Deepslate Tile Stairs,deepslate_tile_stairs,64 Stackable,-
+YES,Polished Granite Slab,polished_granite_slab,64 Stackable,-
+YES,Smooth Red Sandstone Slab,smooth_red_sandstone_slab,64 Stackable,-
+YES,Mossy Stone Brick Slab,mossy_stone_brick_slab,64 Stackable,-
+YES,Polished Diorite Slab,polished_diorite_slab,64 Stackable,-
+YES,Mossy Cobblestone Slab,mossy_cobblestone_slab,64 Stackable,-
+YES,End Stone Brick Slab,end_stone_brick_slab,64 Stackable,-
+YES,Smooth Sandstone Slab,smooth_sandstone_slab,64 Stackable,-
+YES,Smooth Quartz Slab,smooth_quartz_slab,64 Stackable,-
+YES,Granite Slab,granite_slab,64 Stackable,-
+YES,Andesite Slab,andesite_slab,64 Stackable,-
+YES,Red Nether Brick Slab,red_nether_brick_slab,64 Stackable,-
+YES,Polished Andesite Slab,polished_andesite_slab,64 Stackable,-
+YES,Diorite Slab,diorite_slab,64 Stackable,-
+YES,Cobbled Deepslate Slab,cobbled_deepslate_slab,64 Stackable,-
+YES,Polished Deepslate Slab,polished_deepslate_slab,64 Stackable,-
+YES,Deepslate Brick Slab,deepslate_brick_slab,64 Stackable,-
+YES,Deepslate Tile Slab,deepslate_tile_slab,64 Stackable,-
+YES,Scaffolding,scaffolding,64 Stackable,-
+YES,Redstone Dust,redstone,64 Stackable,-
+YES,Redstone Torch,redstone_torch,64 Stackable,-
+YES,Block of Redstone,redstone_block,64 Stackable,-
+YES,Redstone Repeater,repeater,64 Stackable,-
+YES,Redstone Comparator,comparator,64 Stackable,-
+YES,Piston,piston,64 Stackable,-
+YES,Sticky Piston,sticky_piston,64 Stackable,-
+YES,Slime Block,slime_block,64 Stackable,-
+YES,Honey Block,honey_block,64 Stackable,-
+YES,Observer,observer,64 Stackable,-
+YES,Hopper,hopper,64 Stackable,-
+YES,Dispenser,dispenser,64 Stackable,-
+YES,Dropper,dropper,64 Stackable,-
+YES,Lectern,lectern,64 Stackable,-
+YES,Target,target,64 Stackable,-
+YES,Lever,lever,64 Stackable,-
+YES,Lightning Rod,lightning_rod,64 Stackable,-
+YES,Daylight Detector,daylight_detector,64 Stackable,-
+YES,Sculk Sensor,sculk_sensor,64 Stackable,-
+YES,Tripwire Hook,tripwire_hook,64 Stackable,-
+YES,Trapped Chest,trapped_chest,64 Stackable,-
+YES,TNT,tnt,64 Stackable,-
+YES,Redstone Lamp,redstone_lamp,64 Stackable,-
+YES,Note Block,note_block,64 Stackable,-
+YES,Stone Button,stone_button,64 Stackable,-
+YES,Polished Blackstone Button,polished_blackstone_button,64 Stackable,-
+YES,Oak Button,oak_button,64 Stackable,-
+YES,Spruce Button,spruce_button,64 Stackable,-
+YES,Birch Button,birch_button,64 Stackable,-
+YES,Jungle Button,jungle_button,64 Stackable,-
+YES,Acacia Button,acacia_button,64 Stackable,-
+YES,Dark Oak Button,dark_oak_button,64 Stackable,-
+YES,Mangrove Button,mangrove_button,64 Stackable,-
+YES,Crimson Button,crimson_button,64 Stackable,-
+YES,Warped Button,warped_button,64 Stackable,-
+YES,Stone Pressure Plate,stone_pressure_plate,64 Stackable,-
+YES,Polished Blackstone Pressure Plate,polished_blackstone_pressure_plate,64 Stackable,-
+YES,Light Weighted Pressure Plate,light_weighted_pressure_plate,64 Stackable,-
+YES,Heavy Weighted Pressure Plate,heavy_weighted_pressure_plate,64 Stackable,-
+YES,Oak Pressure Plate,oak_pressure_plate,64 Stackable,-
+YES,Spruce Pressure Plate,spruce_pressure_plate,64 Stackable,-
+YES,Birch Pressure Plate,birch_pressure_plate,64 Stackable,-
+YES,Jungle Pressure Plate,jungle_pressure_plate,64 Stackable,-
+YES,Acacia Pressure Plate,acacia_pressure_plate,64 Stackable,-
+YES,Dark Oak Pressure Plate,dark_oak_pressure_plate,64 Stackable,-
+YES,Mangrove Pressure Plate,mangrove_pressure_plate,64 Stackable,-
+YES,Crimson Pressure Plate,crimson_pressure_plate,64 Stackable,-
+YES,Warped Pressure Plate,warped_pressure_plate,64 Stackable,-
+YES,Iron Door,iron_door,64 Stackable,-
+YES,Oak Door,oak_door,64 Stackable,-
+YES,Spruce Door,spruce_door,64 Stackable,-
+YES,Birch Door,birch_door,64 Stackable,-
+YES,Jungle Door,jungle_door,64 Stackable,-
+YES,Acacia Door,acacia_door,64 Stackable,-
+YES,Dark Oak Door,dark_oak_door,64 Stackable,-
+YES,Mangrove Door,mangrove_door,64 Stackable,-
+YES,Crimson Door,crimson_door,64 Stackable,-
+YES,Warped Door,warped_door,64 Stackable,-
+YES,Iron Trapdoor,iron_trapdoor,64 Stackable,-
+YES,Oak Trapdoor,oak_trapdoor,64 Stackable,-
+YES,Spruce Trapdoor,spruce_trapdoor,64 Stackable,-
+YES,Birch Trapdoor,birch_trapdoor,64 Stackable,-
+YES,Jungle Trapdoor,jungle_trapdoor,64 Stackable,-
+YES,Acacia Trapdoor,acacia_trapdoor,64 Stackable,-
+YES,Dark Oak Trapdoor,dark_oak_trapdoor,64 Stackable,-
+YES,Mangrove Trapdoor,mangrove_trapdoor,64 Stackable,-
+YES,Crimson Trapdoor,crimson_trapdoor,64 Stackable,-
+YES,Warped Trapdoor,warped_trapdoor,64 Stackable,-
+YES,Oak Fence Gate,oak_fence_gate,64 Stackable,-
+YES,Spruce Fence Gate,spruce_fence_gate,64 Stackable,-
+YES,Birch Fence Gate,birch_fence_gate,64 Stackable,-
+YES,Jungle Fence Gate,jungle_fence_gate,64 Stackable,-
+YES,Acacia Fence Gate,acacia_fence_gate,64 Stackable,-
+YES,Dark Oak Fence Gate,dark_oak_fence_gate,64 Stackable,-
+YES,Mangrove Fence Gate,mangrove_fence_gate,64 Stackable,-
+YES,Crimson Fence Gate,crimson_fence_gate,64 Stackable,-
+YES,Warped Fence Gate,warped_fence_gate,64 Stackable,-
+YES,Powered Rail,powered_rail,64 Stackable,-
+YES,Detector Rail,detector_rail,64 Stackable,-
+YES,Rail,rail,64 Stackable,-
+YES,Activator Rail,activator_rail,64 Stackable,-
+YES,Saddle,saddle,Unstackable,
+YES,Minecart,minecart,Unstackable,
+YES,Minecart with Chest,chest_minecart,Unstackable,
+YES,Minecart with Furnace,furnace_minecart,Unstackable,
+YES,Minecart with TNT,tnt_minecart,Unstackable,
+YES,Minecart with Hopper,hopper_minecart,Unstackable,
+YES,Carrot on a Stick,carrot_on_a_stick,Unstackable,
+YES,Warped Fungus on a Stick,warped_fungus_on_a_stick,Unstackable,
+YES,Elytra,elytra,Unstackable,
+YES,Oak Boat,oak_boat,Unstackable,
+YES,Oak Boat with Chest,oak_chest_boat,Unstackable,
+YES,Spruce Boat,spruce_boat,Unstackable,
+YES,Spruce Boat with Chest,spruce_chest_boat,Unstackable,
+YES,Birch Boat,birch_boat,Unstackable,
+YES,Birch Boat with Chest,birch_chest_boat,Unstackable,
+YES,Jungle Boat,jungle_boat,Unstackable,
+YES,Jungle Boat with Chest,jungle_chest_boat,Unstackable,
+YES,Acacia Boat,acacia_boat,Unstackable,
+YES,Acacia Boat with Chest,acacia_chest_boat,Unstackable,
+YES,Dark Oak Boat,dark_oak_boat,Unstackable,
+YES,Dark Oak Boat with Chest,dark_oak_chest_boat,Unstackable,
+YES,Mangrove Boat,mangrove_boat,Unstackable,
+YES,Mangrove Boat with Chest,mangrove_chest_boat,Unstackable,
+YES,Turtle Shell,turtle_helmet,Unstackable,
+YES,Scute,scute,64 Stackable,-
+YES,Flint and Steel,flint_and_steel,Unstackable,
+YES,Apple,apple,64 Stackable,-
+YES,Bow,bow,Unstackable,
+YES,Arrow,arrow,64 Stackable,-
+YES,Coal,coal,64 Stackable,-
+YES,Charcoal,charcoal,64 Stackable,-
+YES,Diamond,diamond,64 Stackable,-
+YES,Emerald,emerald,64 Stackable,-
+YES,Lapis Lazuli,lapis_lazuli,64 Stackable,-
+YES,Nether Quartz,quartz,64 Stackable,-
+YES,Amethyst Shard,amethyst_shard,64 Stackable,-
+YES,Raw Iron,raw_iron,64 Stackable,-
+YES,Iron Ingot,iron_ingot,64 Stackable,-
+YES,Raw Copper,raw_copper,64 Stackable,-
+YES,Copper Ingot,copper_ingot,64 Stackable,-
+YES,Raw Gold,raw_gold,64 Stackable,-
+YES,Gold Ingot,gold_ingot,64 Stackable,-
+YES,Netherite Ingot,netherite_ingot,64 Stackable,-
+YES,Netherite Scrap,netherite_scrap,64 Stackable,-
+YES,Wooden Sword,wooden_sword,Unstackable,
+YES,Wooden Shovel,wooden_shovel,Unstackable,
+YES,Wooden Pickaxe,wooden_pickaxe,Unstackable,
+YES,Wooden Axe,wooden_axe,Unstackable,
+YES,Wooden Hoe,wooden_hoe,Unstackable,
+YES,Stone Sword,stone_sword,Unstackable,
+YES,Stone Shovel,stone_shovel,Unstackable,
+YES,Stone Pickaxe,stone_pickaxe,Unstackable,
+YES,Stone Axe,stone_axe,Unstackable,
+YES,Stone Hoe,stone_hoe,Unstackable,
+YES,Golden Sword,golden_sword,Unstackable,
+YES,Golden Shovel,golden_shovel,Unstackable,
+YES,Golden Pickaxe,golden_pickaxe,Unstackable,
+YES,Golden Axe,golden_axe,Unstackable,
+YES,Golden Hoe,golden_hoe,Unstackable,
+YES,Iron Sword,iron_sword,Unstackable,
+YES,Iron Shovel,iron_shovel,Unstackable,
+YES,Iron Pickaxe,iron_pickaxe,Unstackable,
+YES,Iron Axe,iron_axe,Unstackable,
+YES,Iron Hoe,iron_hoe,Unstackable,
+YES,Diamond Sword,diamond_sword,Unstackable,
+YES,Diamond Shovel,diamond_shovel,Unstackable,
+YES,Diamond Pickaxe,diamond_pickaxe,Unstackable,
+YES,Diamond Axe,diamond_axe,Unstackable,
+YES,Diamond Hoe,diamond_hoe,Unstackable,
+YES,Netherite Sword,netherite_sword,Unstackable,
+YES,Netherite Shovel,netherite_shovel,Unstackable,
+YES,Netherite Pickaxe,netherite_pickaxe,Unstackable,
+YES,Netherite Axe,netherite_axe,Unstackable,
+YES,Netherite Hoe,netherite_hoe,Unstackable,
+YES,Stick,stick,64 Stackable,-
+YES,Bowl,bowl,64 Stackable,-
+YES,Mushroom Stew,mushroom_stew,Unstackable,
+YES,String,string,64 Stackable,-
+YES,Feather,feather,64 Stackable,-
+YES,Gunpowder,gunpowder,64 Stackable,-
+YES,Wheat Seeds,wheat_seeds,64 Stackable,-
+YES,Wheat,wheat,64 Stackable,-
+YES,Bread,bread,64 Stackable,-
+YES,Leather Cap,leather_helmet,Unstackable,
+YES,Leather Tunic,leather_chestplate,Unstackable,
+YES,Leather Pants,leather_leggings,Unstackable,
+YES,Leather Boots,leather_boots,Unstackable,
+YES,Chainmail Helmet,chainmail_helmet,Unstackable,
+YES,Chainmail Chestplate,chainmail_chestplate,Unstackable,
+YES,Chainmail Leggings,chainmail_leggings,Unstackable,
+YES,Chainmail Boots,chainmail_boots,Unstackable,
+YES,Iron Helmet,iron_helmet,Unstackable,
+YES,Iron Chestplate,iron_chestplate,Unstackable,
+YES,Iron Leggings,iron_leggings,Unstackable,
+YES,Iron Boots,iron_boots,Unstackable,
+YES,Diamond Helmet,diamond_helmet,Unstackable,
+YES,Diamond Chestplate,diamond_chestplate,Unstackable,
+YES,Diamond Leggings,diamond_leggings,Unstackable,
+YES,Diamond Boots,diamond_boots,Unstackable,
+YES,Golden Helmet,golden_helmet,Unstackable,
+YES,Golden Chestplate,golden_chestplate,Unstackable,
+YES,Golden Leggings,golden_leggings,Unstackable,
+YES,Golden Boots,golden_boots,Unstackable,
+YES,Netherite Helmet,netherite_helmet,Unstackable,
+YES,Netherite Chestplate,netherite_chestplate,Unstackable,
+YES,Netherite Leggings,netherite_leggings,Unstackable,
+YES,Netherite Boots,netherite_boots,Unstackable,
+YES,Flint,flint,64 Stackable,-
+YES,Raw Porkchop,porkchop,64 Stackable,-
+YES,Cooked Porkchop,cooked_porkchop,64 Stackable,-
+YES,Painting,painting,64 Stackable,-
+YES,Golden Apple,golden_apple,64 Stackable,-
+YES,Enchanted Golden Apple,enchanted_golden_apple,64 Stackable,-
+YES,Oak Sign,oak_sign,16 Stackable,-
+YES,Spruce Sign,spruce_sign,16 Stackable,-
+YES,Birch Sign,birch_sign,16 Stackable,-
+YES,Jungle Sign,jungle_sign,16 Stackable,-
+YES,Acacia Sign,acacia_sign,16 Stackable,-
+YES,Dark Oak Sign,dark_oak_sign,16 Stackable,-
+YES,Mangrove Sign,mangrove_sign,16 Stackable,-
+YES,Crimson Sign,crimson_sign,16 Stackable,-
+YES,Warped Sign,warped_sign,16 Stackable,-
+YES,Bucket,bucket,16 Stackable,-
+YES,Water Bucket,water_bucket,Unstackable,
+YES,Lava Bucket,lava_bucket,Unstackable,
+YES,Powder Snow Bucket,powder_snow_bucket,Unstackable,
+YES,Snowball,snowball,16 Stackable,-
+YES,Leather,leather,64 Stackable,-
+YES,Milk Bucket,milk_bucket,Unstackable,
+YES,Bucket of Pufferfish,pufferfish_bucket,Unstackable,
+YES,Bucket of Salmon,salmon_bucket,Unstackable,
+YES,Bucket of Cod,cod_bucket,Unstackable,
+YES,Bucket of Tropical Fish,tropical_fish_bucket,Unstackable,
+YES,Bucket of Axolotl,axolotl_bucket,Unstackable,
+YES,Bucket of Tadpole,tadpole_bucket,Unstackable,
+YES,Brick,brick,64 Stackable,-
+YES,Clay Ball,clay_ball,64 Stackable,-
+YES,Dried Kelp Block,dried_kelp_block,64 Stackable,-
+YES,Paper,paper,64 Stackable,-
+YES,Book,book,64 Stackable,-
+YES,Slimeball,slime_ball,64 Stackable,-
+YES,Egg,egg,16 Stackable,-
+YES,Compass,compass,64 Stackable,-
+YES,Recovery Compass,recovery_compass,64 Stackable,-
+YES,Fishing Rod,fishing_rod,Unstackable,
+YES,Clock,clock,64 Stackable,-
+YES,Spyglass,spyglass,Unstackable,
+YES,Glowstone Dust,glowstone_dust,64 Stackable,-
+YES,Raw Cod,cod,64 Stackable,-
+YES,Raw Salmon,salmon,64 Stackable,-
+YES,Tropical Fish,tropical_fish,64 Stackable,-
+YES,Pufferfish,pufferfish,64 Stackable,-
+YES,Cooked Cod,cooked_cod,64 Stackable,-
+YES,Cooked Salmon,cooked_salmon,64 Stackable,-
+YES,Ink Sac,ink_sac,64 Stackable,-
+YES,Glow Ink Sac,glow_ink_sac,64 Stackable,-
+YES,Cocoa Beans,cocoa_beans,64 Stackable,-
+YES,White Dye,white_dye,64 Stackable,-
+YES,Orange Dye,orange_dye,64 Stackable,-
+YES,Magenta Dye,magenta_dye,64 Stackable,-
+YES,Light Blue Dye,light_blue_dye,64 Stackable,-
+YES,Yellow Dye,yellow_dye,64 Stackable,-
+YES,Lime Dye,lime_dye,64 Stackable,-
+YES,Pink Dye,pink_dye,64 Stackable,-
+YES,Gray Dye,gray_dye,64 Stackable,-
+YES,Light Gray Dye,light_gray_dye,64 Stackable,-
+YES,Cyan Dye,cyan_dye,64 Stackable,-
+YES,Purple Dye,purple_dye,64 Stackable,-
+YES,Blue Dye,blue_dye,64 Stackable,-
+YES,Brown Dye,brown_dye,64 Stackable,-
+YES,Green Dye,green_dye,64 Stackable,-
+YES,Red Dye,red_dye,64 Stackable,-
+YES,Black Dye,black_dye,64 Stackable,-
+YES,Bone Meal,bone_meal,64 Stackable,-
+YES,Bone,bone,64 Stackable,-
+YES,Sugar,sugar,64 Stackable,-
+YES,Cake,cake,Unstackable,
+YES,White Bed,white_bed,Unstackable,
+YES,Orange Bed,orange_bed,Unstackable,
+YES,Magenta Bed,magenta_bed,Unstackable,
+YES,Light Blue Bed,light_blue_bed,Unstackable,
+YES,Yellow Bed,yellow_bed,Unstackable,
+YES,Lime Bed,lime_bed,Unstackable,
+YES,Pink Bed,pink_bed,Unstackable,
+YES,Gray Bed,gray_bed,Unstackable,
+YES,Light Gray Bed,light_gray_bed,Unstackable,
+YES,Cyan Bed,cyan_bed,Unstackable,
+YES,Purple Bed,purple_bed,Unstackable,
+YES,Blue Bed,blue_bed,Unstackable,
+YES,Brown Bed,brown_bed,Unstackable,
+YES,Green Bed,green_bed,Unstackable,
+YES,Red Bed,red_bed,Unstackable,
+YES,Black Bed,black_bed,Unstackable,
+YES,Cookie,cookie,64 Stackable,-
+YES,Map,filled_map,64 Stackable,-
+YES,Shears,shears,Unstackable,
+YES,Melon Slice,melon_slice,64 Stackable,-
+YES,Dried Kelp,dried_kelp,64 Stackable,-
+YES,Pumpkin Seeds,pumpkin_seeds,64 Stackable,-
+YES,Melon Seeds,melon_seeds,64 Stackable,-
+YES,Raw Beef,beef,64 Stackable,-
+YES,Steak,cooked_beef,64 Stackable,-
+YES,Raw Chicken,chicken,64 Stackable,-
+YES,Cooked Chicken,cooked_chicken,64 Stackable,-
+YES,Rotten Flesh,rotten_flesh,64 Stackable,-
+YES,Ender Pearl,ender_pearl,16 Stackable,-
+YES,Blaze Rod,blaze_rod,64 Stackable,-
+YES,Ghast Tear,ghast_tear,64 Stackable,-
+YES,Gold Nugget,gold_nugget,64 Stackable,-
+YES,Nether Wart,nether_wart,64 Stackable,-
+YES,Potion,potion,Unstackable,
+YES,Glass Bottle,glass_bottle,64 Stackable,-
+YES,Spider Eye,spider_eye,64 Stackable,-
+YES,Fermented Spider Eye,fermented_spider_eye,64 Stackable,-
+YES,Blaze Powder,blaze_powder,64 Stackable,-
+YES,Magma Cream,magma_cream,64 Stackable,-
+YES,Brewing Stand,brewing_stand,64 Stackable,-
+YES,Cauldron,cauldron,64 Stackable,-
+YES,Eye of Ender,ender_eye,64 Stackable,-
+YES,Glistering Melon Slice,glistering_melon_slice,64 Stackable,-
+YES,Bottle o' Enchanting,experience_bottle,64 Stackable,-
+YES,Fire Charge,fire_charge,64 Stackable,-
+YES,Book and Quill,writable_book,Unstackable,
+YES,Written Book,written_book,16 Stackable,-
+YES,Item Frame,item_frame,64 Stackable,-
+YES,Glow Item Frame,glow_item_frame,64 Stackable,-
+YES,Flower Pot,flower_pot,64 Stackable,-
+YES,Carrot,carrot,64 Stackable,-
+YES,Potato,potato,64 Stackable,-
+YES,Baked Potato,baked_potato,64 Stackable,-
+YES,Poisonous Potato,poisonous_potato,64 Stackable,-
+YES,Empty Map,map,64 Stackable,-
+YES,Golden Carrot,golden_carrot,64 Stackable,-
+YES,Skeleton Skull,skeleton_skull,64 Stackable,-
+YES,Wither Skeleton Skull,wither_skeleton_skull,64 Stackable,-
+YES,Zombie Head,zombie_head,64 Stackable,-
+YES,Creeper Head,creeper_head,64 Stackable,-
+YES,Dragon Head,dragon_head,64 Stackable,-
+YES,Nether Star,nether_star,64 Stackable,-
+YES,Pumpkin Pie,pumpkin_pie,64 Stackable,-
+YES,Firework Rocket,firework_rocket,64 Stackable,-
+YES,Firework Star,firework_star,64 Stackable,-
+YES,Enchanted Book,enchanted_book,Unstackable,
+YES,Nether Brick,nether_brick,64 Stackable,-
+YES,Prismarine Shard,prismarine_shard,64 Stackable,-
+YES,Prismarine Crystals,prismarine_crystals,64 Stackable,-
+YES,Raw Rabbit,rabbit,64 Stackable,-
+YES,Cooked Rabbit,cooked_rabbit,64 Stackable,-
+YES,Rabbit Stew,rabbit_stew,Unstackable,
+YES,Rabbit's Foot,rabbit_foot,64 Stackable,-
+YES,Rabbit Hide,rabbit_hide,64 Stackable,-
+YES,Armor Stand,armor_stand,16 Stackable,-
+YES,Iron Horse Armor,iron_horse_armor,Unstackable,
+YES,Golden Horse Armor,golden_horse_armor,Unstackable,
+YES,Diamond Horse Armor,diamond_horse_armor,Unstackable,
+YES,Leather Horse Armor,leather_horse_armor,Unstackable,
+YES,Lead,lead,64 Stackable,-
+YES,Name Tag,name_tag,64 Stackable,-
+YES,Raw Mutton,mutton,64 Stackable,-
+YES,Cooked Mutton,cooked_mutton,64 Stackable,-
+YES,White Banner,white_banner,16 Stackable,-
+YES,Orange Banner,orange_banner,16 Stackable,-
+YES,Magenta Banner,magenta_banner,16 Stackable,-
+YES,Light Blue Banner,light_blue_banner,16 Stackable,-
+YES,Yellow Banner,yellow_banner,16 Stackable,-
+YES,Lime Banner,lime_banner,16 Stackable,-
+YES,Pink Banner,pink_banner,16 Stackable,-
+YES,Gray Banner,gray_banner,16 Stackable,-
+YES,Light Gray Banner,light_gray_banner,16 Stackable,-
+YES,Cyan Banner,cyan_banner,16 Stackable,-
+YES,Purple Banner,purple_banner,16 Stackable,-
+YES,Blue Banner,blue_banner,16 Stackable,-
+YES,Brown Banner,brown_banner,16 Stackable,-
+YES,Green Banner,green_banner,16 Stackable,-
+YES,Red Banner,red_banner,16 Stackable,-
+YES,Black Banner,black_banner,16 Stackable,-
+YES,End Crystal,end_crystal,64 Stackable,-
+YES,Chorus Fruit,chorus_fruit,64 Stackable,-
+YES,Popped Chorus Fruit,popped_chorus_fruit,64 Stackable,-
+YES,Beetroot,beetroot,64 Stackable,-
+YES,Beetroot Seeds,beetroot_seeds,64 Stackable,-
+YES,Beetroot Soup,beetroot_soup,Unstackable,
+YES,Dragon's Breath,dragon_breath,64 Stackable,-
+YES,Splash Potion,splash_potion,Unstackable,
+YES,Spectral Arrow,spectral_arrow,64 Stackable,-
+YES,Tipped Arrow,tipped_arrow,64 Stackable,-
+YES,Lingering Potion,lingering_potion,Unstackable,
+YES,Shield,shield,Unstackable,
+YES,Totem of Undying,totem_of_undying,Unstackable,
+YES,Shulker Shell,shulker_shell,64 Stackable,-
+YES,Iron Nugget,iron_nugget,64 Stackable,-
+YES,Music Disc,music_disc_13,Unstackable,
+YES,Music Disc,music_disc_cat,Unstackable,
+YES,Music Disc,music_disc_blocks,Unstackable,
+YES,Music Disc,music_disc_chirp,Unstackable,
+YES,Music Disc,music_disc_far,Unstackable,
+YES,Music Disc,music_disc_mall,Unstackable,
+YES,Music Disc,music_disc_mellohi,Unstackable,
+YES,Music Disc,music_disc_stal,Unstackable,
+YES,Music Disc,music_disc_strad,Unstackable,
+YES,Music Disc,music_disc_ward,Unstackable,
+YES,Music Disc,music_disc_11,Unstackable,
+YES,Music Disc,music_disc_wait,Unstackable,
+YES,Music Disc,music_disc_otherside,Unstackable,
+YES,Music Disc,music_disc_5,Unstackable,
+YES,Music Disc,music_disc_pigstep,Unstackable,
+YES,Disc Fragment,disc_fragment_5,64 Stackable,-
+YES,Trident,trident,Unstackable,
+YES,Phantom Membrane,phantom_membrane,64 Stackable,-
+YES,Nautilus Shell,nautilus_shell,64 Stackable,-
+YES,Heart of the Sea,heart_of_the_sea,64 Stackable,-
+YES,Crossbow,crossbow,Unstackable,
+YES,Suspicious Stew,suspicious_stew,Unstackable,
+YES,Loom,loom,64 Stackable,-
+YES,Banner Pattern,flower_banner_pattern,Unstackable,
+YES,Banner Pattern,creeper_banner_pattern,Unstackable,
+YES,Banner Pattern,skull_banner_pattern,Unstackable,
+YES,Banner Pattern,mojang_banner_pattern,Unstackable,
+YES,Banner Pattern,globe_banner_pattern,Unstackable,
+YES,Banner Pattern,piglin_banner_pattern,Unstackable,
+YES,Goat Horn,goat_horn,Unstackable,
+YES,Composter,composter,64 Stackable,-
+YES,Barrel,barrel,64 Stackable,-
+YES,Smoker,smoker,64 Stackable,-
+YES,Blast Furnace,blast_furnace,64 Stackable,-
+YES,Cartography Table,cartography_table,64 Stackable,-
+YES,Fletching Table,fletching_table,64 Stackable,-
+YES,Grindstone,grindstone,64 Stackable,-
+YES,Smithing Table,smithing_table,64 Stackable,-
+YES,Stonecutter,stonecutter,64 Stackable,-
+YES,Bell,bell,64 Stackable,-
+YES,Lantern,lantern,64 Stackable,-
+YES,Soul Lantern,soul_lantern,64 Stackable,-
+YES,Sweet Berries,sweet_berries,64 Stackable,-
+YES,Glow Berries,glow_berries,64 Stackable,-
+YES,Campfire,campfire,64 Stackable,-
+YES,Soul Campfire,soul_campfire,64 Stackable,-
+YES,Shroomlight,shroomlight,64 Stackable,-
+YES,Honeycomb,honeycomb,64 Stackable,-
+YES,Bee Nest,bee_nest,64 Stackable,-
+YES,Beehive,beehive,64 Stackable,-
+YES,Honey Bottle,honey_bottle,16 Stackable,-
+YES,Honeycomb Block,honeycomb_block,64 Stackable,-
+YES,Lodestone,lodestone,64 Stackable,-
+YES,Crying Obsidian,crying_obsidian,64 Stackable,-
+YES,Blackstone,blackstone,64 Stackable,-
+YES,Blackstone Slab,blackstone_slab,64 Stackable,-
+YES,Blackstone Stairs,blackstone_stairs,64 Stackable,-
+YES,Gilded Blackstone,gilded_blackstone,64 Stackable,-
+YES,Polished Blackstone,polished_blackstone,64 Stackable,-
+YES,Polished Blackstone Slab,polished_blackstone_slab,64 Stackable,-
+YES,Polished Blackstone Stairs,polished_blackstone_stairs,64 Stackable,-
+YES,Chiseled Polished Blackstone,chiseled_polished_blackstone,64 Stackable,-
+YES,Polished Blackstone Bricks,polished_blackstone_bricks,64 Stackable,-
+YES,Polished Blackstone Brick Slab,polished_blackstone_brick_slab,64 Stackable,-
+YES,Polished Blackstone Brick Stairs,polished_blackstone_brick_stairs,64 Stackable,-
+YES,Cracked Polished Blackstone Bricks,cracked_polished_blackstone_bricks,64 Stackable,-
+YES,Respawn Anchor,respawn_anchor,64 Stackable,-
+YES,Candle,candle,64 Stackable,-
+YES,White Candle,white_candle,64 Stackable,-
+YES,Orange Candle,orange_candle,64 Stackable,-
+YES,Magenta Candle,magenta_candle,64 Stackable,-
+YES,Light Blue Candle,light_blue_candle,64 Stackable,-
+YES,Yellow Candle,yellow_candle,64 Stackable,-
+YES,Lime Candle,lime_candle,64 Stackable,-
+YES,Pink Candle,pink_candle,64 Stackable,-
+YES,Gray Candle,gray_candle,64 Stackable,-
+YES,Light Gray Candle,light_gray_candle,64 Stackable,-
+YES,Cyan Candle,cyan_candle,64 Stackable,-
+YES,Purple Candle,purple_candle,64 Stackable,-
+YES,Blue Candle,blue_candle,64 Stackable,-
+YES,Brown Candle,brown_candle,64 Stackable,-
+YES,Green Candle,green_candle,64 Stackable,-
+YES,Red Candle,red_candle,64 Stackable,-
+YES,Black Candle,black_candle,64 Stackable,-
+YES,Small Amethyst Bud,small_amethyst_bud,64 Stackable,-
+YES,Medium Amethyst Bud,medium_amethyst_bud,64 Stackable,-
+YES,Large Amethyst Bud,large_amethyst_bud,64 Stackable,-
+YES,Amethyst Cluster,amethyst_cluster,64 Stackable,-
+YES,Pointed Dripstone,pointed_dripstone,64 Stackable,-
+YES,Ochre Froglight,ochre_froglight,64 Stackable,-
+YES,Verdant Froglight,verdant_froglight,64 Stackable,-
+YES,Pearlescent Froglight,pearlescent_froglight,64 Stackable,-
+YES,Echo Shard,echo_shard,64 Stackable,-
+NO,Bedrock,bedrock,64 Stackable,
+NO,Budding Amethyst,budding_amethyst,64 Stackable,
+NO,Petrified Oak Slab,petrified_oak_slab,64 Stackable,
+NO,Chorus Plant,chorus_plant,64 Stackable,
+NO,Spawner,spawner,64 Stackable,
+NO,Farmland,farmland,64 Stackable,
+NO,Infested Stone,infested_stone,64 Stackable,
+NO,Infested Cobblestone,infested_cobblestone,64 Stackable,
+NO,Infested Stone Bricks,infested_stone_bricks,64 Stackable,
+NO,Infested Mossy Stone Bricks,infested_mossy_stone_bricks,64 Stackable,
+NO,Infested Cracked Stone Bricks,infested_cracked_stone_bricks,64 Stackable,
+NO,Infested Chiseled Stone Bricks,infested_chiseled_stone_bricks,64 Stackable,
+NO,Infested Deepslate,infested_deepslate,64 Stackable,
+NO,Reinforced Deepslate,reinforced_deepslate,64 Stackable,
+NO,End Portal Frame,end_portal_frame,64 Stackable,
+NO,Command Block,command_block,64 Stackable,
+NO,Barrier,barrier,64 Stackable,
+NO,Light,light,64 Stackable,
+NO,Dirt Path,dirt_path,64 Stackable,
+NO,Repeating Command Block,repeating_command_block,64 Stackable,
+NO,Chain Command Block,chain_command_block,64 Stackable,
+NO,Structure Void,structure_void,64 Stackable,
+NO,Structure Block,structure_block,64 Stackable,
+NO,Jigsaw Block,jigsaw,64 Stackable,
+NO,Bundle,bundle,Unstackable,
+NO,Allay Spawn Egg,allay_spawn_egg,64 Stackable,
+NO,Axolotl Spawn Egg,axolotl_spawn_egg,64 Stackable,
+NO,Bat Spawn Egg,bat_spawn_egg,64 Stackable,
+NO,Bee Spawn Egg,bee_spawn_egg,64 Stackable,
+NO,Blaze Spawn Egg,blaze_spawn_egg,64 Stackable,
+NO,Cat Spawn Egg,cat_spawn_egg,64 Stackable,
+NO,Cave Spider Spawn Egg,cave_spider_spawn_egg,64 Stackable,
+NO,Chicken Spawn Egg,chicken_spawn_egg,64 Stackable,
+NO,Cod Spawn Egg,cod_spawn_egg,64 Stackable,
+NO,Cow Spawn Egg,cow_spawn_egg,64 Stackable,
+NO,Creeper Spawn Egg,creeper_spawn_egg,64 Stackable,
+NO,Dolphin Spawn Egg,dolphin_spawn_egg,64 Stackable,
+NO,Donkey Spawn Egg,donkey_spawn_egg,64 Stackable,
+NO,Drowned Spawn Egg,drowned_spawn_egg,64 Stackable,
+NO,Elder Guardian Spawn Egg,elder_guardian_spawn_egg,64 Stackable,
+NO,Enderman Spawn Egg,enderman_spawn_egg,64 Stackable,
+NO,Endermite Spawn Egg,endermite_spawn_egg,64 Stackable,
+NO,Evoker Spawn Egg,evoker_spawn_egg,64 Stackable,
+NO,Fox Spawn Egg,fox_spawn_egg,64 Stackable,
+NO,Frog Spawn Egg,frog_spawn_egg,64 Stackable,
+NO,Ghast Spawn Egg,ghast_spawn_egg,64 Stackable,
+NO,Glow Squid Spawn Egg,glow_squid_spawn_egg,64 Stackable,
+NO,Goat Spawn Egg,goat_spawn_egg,64 Stackable,
+NO,Guardian Spawn Egg,guardian_spawn_egg,64 Stackable,
+NO,Hoglin Spawn Egg,hoglin_spawn_egg,64 Stackable,
+NO,Horse Spawn Egg,horse_spawn_egg,64 Stackable,
+NO,Husk Spawn Egg,husk_spawn_egg,64 Stackable,
+NO,Llama Spawn Egg,llama_spawn_egg,64 Stackable,
+NO,Magma Cube Spawn Egg,magma_cube_spawn_egg,64 Stackable,
+NO,Mooshroom Spawn Egg,mooshroom_spawn_egg,64 Stackable,
+NO,Mule Spawn Egg,mule_spawn_egg,64 Stackable,
+NO,Ocelot Spawn Egg,ocelot_spawn_egg,64 Stackable,
+NO,Panda Spawn Egg,panda_spawn_egg,64 Stackable,
+NO,Parrot Spawn Egg,parrot_spawn_egg,64 Stackable,
+NO,Phantom Spawn Egg,phantom_spawn_egg,64 Stackable,
+NO,Pig Spawn Egg,pig_spawn_egg,64 Stackable,
+NO,Piglin Spawn Egg,piglin_spawn_egg,64 Stackable,
+NO,Piglin Brute Spawn Egg,piglin_brute_spawn_egg,64 Stackable,
+NO,Pillager Spawn Egg,pillager_spawn_egg,64 Stackable,
+NO,Polar Bear Spawn Egg,polar_bear_spawn_egg,64 Stackable,
+NO,Pufferfish Spawn Egg,pufferfish_spawn_egg,64 Stackable,
+NO,Rabbit Spawn Egg,rabbit_spawn_egg,64 Stackable,
+NO,Ravager Spawn Egg,ravager_spawn_egg,64 Stackable,
+NO,Salmon Spawn Egg,salmon_spawn_egg,64 Stackable,
+NO,Sheep Spawn Egg,sheep_spawn_egg,64 Stackable,
+NO,Shulker Spawn Egg,shulker_spawn_egg,64 Stackable,
+NO,Silverfish Spawn Egg,silverfish_spawn_egg,64 Stackable,
+NO,Skeleton Spawn Egg,skeleton_spawn_egg,64 Stackable,
+NO,Skeleton Horse Spawn Egg,skeleton_horse_spawn_egg,64 Stackable,
+NO,Slime Spawn Egg,slime_spawn_egg,64 Stackable,
+NO,Spider Spawn Egg,spider_spawn_egg,64 Stackable,
+NO,Squid Spawn Egg,squid_spawn_egg,64 Stackable,
+NO,Stray Spawn Egg,stray_spawn_egg,64 Stackable,
+NO,Strider Spawn Egg,strider_spawn_egg,64 Stackable,
+NO,Tadpole Spawn Egg,tadpole_spawn_egg,64 Stackable,
+NO,Trader Llama Spawn Egg,trader_llama_spawn_egg,64 Stackable,
+NO,Tropical Fish Spawn Egg,tropical_fish_spawn_egg,64 Stackable,
+NO,Turtle Spawn Egg,turtle_spawn_egg,64 Stackable,
+NO,Vex Spawn Egg,vex_spawn_egg,64 Stackable,
+NO,Villager Spawn Egg,villager_spawn_egg,64 Stackable,
+NO,Vindicator Spawn Egg,vindicator_spawn_egg,64 Stackable,
+NO,Wandering Trader Spawn Egg,wandering_trader_spawn_egg,64 Stackable,
+NO,Warden Spawn Egg,warden_spawn_egg,64 Stackable,
+NO,Witch Spawn Egg,witch_spawn_egg,64 Stackable,
+NO,Wither Skeleton Spawn Egg,wither_skeleton_spawn_egg,64 Stackable,
+NO,Wolf Spawn Egg,wolf_spawn_egg,64 Stackable,
+NO,Zoglin Spawn Egg,zoglin_spawn_egg,64 Stackable,
+NO,Zombie Spawn Egg,zombie_spawn_egg,64 Stackable,
+NO,Zombie Horse Spawn Egg,zombie_horse_spawn_egg,64 Stackable,
+NO,Zombie Villager Spawn Egg,zombie_villager_spawn_egg,64 Stackable,
+NO,Zombified Piglin Spawn Egg,zombified_piglin_spawn_egg,64 Stackable,
+NO,Player Head,player_head,64 Stackable,
+NO,Minecart with Command Block,command_block_minecart,Unstackable,
+NO,Knowledge Book,knowledge_book,Unstackable,
+NO,Debug Stick,debug_stick,Unstackable,
+NO,Frogspawn,frogspawn,64 Stackable,
